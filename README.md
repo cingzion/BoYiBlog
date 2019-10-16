@@ -13,6 +13,7 @@
   9. Redux-saga: `https://redux-saga.js.org`
   10. Dva: `https://dvajs.com`
   11. Umi: `https://umijs.org/zh/guide/`
+   [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 ```
 ###### `React Plug-in Document`
 ```markdown
