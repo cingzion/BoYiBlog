@@ -16,7 +16,7 @@
 ```
 ###### `React Plug-in Document`
 ```markdown
-   ....
+   online-html-tables: `http://www.tablesgenerator.com/html_tables#`  // Customizing table styles for different needs online
 ```
 ###### `NodeStackDocument`
 ```markdown
