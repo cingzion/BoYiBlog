@@ -14,7 +14,7 @@
   11. Umi: [https://umijs.org/zh/guide](https://umijs.org/zh/guide?_blank)
 ###### `React Plug-in Document`
 ```markdown
-   online-html-tables: [http://www.tablesgenerator.com/html_tables#](http://www.tablesgenerator.com/html_tables#?_blank) `Customizing table styles for different needs online`
+   online-html-tables: [http://www.tablesgenerator.com/html_tables](http://www.tablesgenerator.com/html_tables?_blank) `Customizing table styles for different needs online`
 ```
 ###### `NodeStackDocument`
 ```markdown
