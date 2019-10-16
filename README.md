@@ -1,7 +1,7 @@
 ## Welcome to GitHub stack document web
 
 ###### `ReactStackDocument` 
-  1. ES6/7/8: [http://es6.ruanyifeng.com](http://es6.ruanyifeng.com)
+  1. ES6/7/8: [http://es6.ruanyifeng.com](http://es6.ruanyifeng.com?_blank)
   2. TS: [https://www.typescriptlang.org](https://www.typescriptlang.org)
   3. React: [https://reactjs.org](https://reactjs.org)
   4. Ant: [https://ant.design/](https://ant.design/)
