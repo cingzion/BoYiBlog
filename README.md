@@ -1,7 +1,7 @@
 ## Welcome to GitHub stack document web
 
-###### `ReactStackDocument`
-  1. ES6/7/8: `http://es6.ruanyifeng.com`
+###### `ReactStackDocument` 
+  1. [ES6/7/8](http://es6.ruanyifeng.com)：http://es6.ruanyifeng.com
   2. TS: `https://www.typescriptlang.org`
   3. React: `https://reactjs.org`
   4. Ant: `https://ant.design/`
@@ -12,7 +12,7 @@
   9. Redux-saga: `https://redux-saga.js.org`
   10. Dva: `https://dvajs.com`
   11. Umi: `https://umijs.org/zh/guide/`
-   [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+   [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)：
 ###### `React Plug-in Document`
 ```markdown
    online-html-tables: `http://www.tablesgenerator.com/html_tables#`  // Customizing table styles for different needs online
