@@ -16,6 +16,7 @@
   
 ###### `React Plug-in Document`
   1. online-html-tables: [http://www.tablesgenerator.com/html_tables](http://www.tablesgenerator.com/html_tables?_blank) `Customizing table styles for different needs online`
+  2. share: [http://ellisonleao.github.io/sharer.js/](http://ellisonleao.github.io/sharer.js/?_blank)
  
  
 ###### `NodeStackDocument`
