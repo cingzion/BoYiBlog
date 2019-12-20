@@ -10,8 +10,9 @@
   7. Redux: [https://redux.js.org](https://redux.js.org?_blank)
   8. React-redux: [https://react-redux.js.org](https://react-redux.js.org?_blank)
   9. Redux-saga: [https://redux-saga.js.org](https://redux-saga.js.org?_blank)
-  10. Dva: [https://dvajs.com](https://dvajs.com?_blank)
-  11. Umi: [https://umijs.org/zh/guide](https://umijs.org/zh/guide?_blank)
+  10. redux-devtools-extension: [https://github.com/zalmoxisus/redux-devtools-extension#usage](https://github.com/zalmoxisus/redux-devtools-extension#usage)
+  11. Dva: [https://dvajs.com](https://dvajs.com?_blank)
+  12. Umi: [https://umijs.org/zh/guide](https://umijs.org/zh/guide?_blank)
   
   
 ###### `React Plug-in Document`
