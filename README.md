@@ -10,7 +10,8 @@
   7. Redux: [https://redux.js.org](https://redux.js.org?_blank)
   8. React-redux: [https://react-redux.js.org](https://react-redux.js.org?_blank)
   9. Redux-saga: [https://redux-saga.js.org](https://redux-saga.js.org?_blank)
-  10 redux-saga-in-chinese: [https://www.bookstack.cn/read/redux-saga-in-chinese/README.md](https://www.bookstack.cn/read/redux-saga-in-chinese/README.md)
+  10. redux-saga-in-chinese: https://www.bookstack.cn/read/redux-saga-in-chinese/README.md](https://www.bookstack.cn/read/redux-saga-in-chinese/README.md?_blank)
+ 
   11. redux-devtools-extension: [https://github.com/zalmoxisus/redux-devtools-extension#usage](https://github.com/zalmoxisus/redux-devtools-extension#usage)
   12. Dva: [https://dvajs.com](https://dvajs.com?_blank)
   13. Umi: [https://umijs.org/zh/guide](https://umijs.org/zh/guide?_blank)
