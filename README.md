@@ -24,7 +24,10 @@
  
 ###### `NodeStackDocument`
 ```markdown
-   ....
+   https://react.statuscode.com/
+   http://reactjsnewsletter.com/
+   https://javascriptweekly.com/
+   https://github.com/cingzion/awesome-newsletters
 ```
 ###### `Node Plug-in Document`
 ```markdown
