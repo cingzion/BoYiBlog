@@ -41,7 +41,7 @@
 2、Ant-UI(React/Vue)
 3、npm、yarn、git、webpack
 4、JavaScript、ES6、TypeScript
-5、React Vue
+5、React、Vue
 6、ReactNative、Ionic、Flutter、Dart
 7、Node、Express、Koa2、Nest、TypeORM
 8、MongoDB, MySql、Jdbc、PostGreSQL
