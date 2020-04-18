@@ -17,6 +17,8 @@
   14. all bookstack skill stack: [https://www.bookstack.cn](https://www.bookstack.cn?_blank)
   15. lucidchart: [https://www.lucidchart.com/documents#/documents](https://www.lucidchart.com/documents#/documents?_blank)
   16. gliffy: [https://go.gliffy.com/go/html5/launch](https://go.gliffy.com/go/html5/launch?_blank)
+  17. jenkins: [https://jenkins.io/zh/doc/tutorials](https://jenkins.io/zh/doc/tutorials?_blank)
+  
   
   
 ###### `React Plug-in Document`
