@@ -18,6 +18,8 @@
   15. lucidchart: [https://www.lucidchart.com/documents#/documents](https://www.lucidchart.com/documents#/documents?_blank)
   16. gliffy: [https://go.gliffy.com/go/html5/launch](https://go.gliffy.com/go/html5/launch?_blank)
   17. jenkins: [https://jenkins.io/zh/doc/tutorials](https://jenkins.io/zh/doc/tutorials?_blank)
+  18. RxJS: [https://cn.rx.js.org/](https://cn.rx.js.org/?_blank)
+  
   
   
   
